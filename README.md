@@ -1,7 +1,11 @@
 # GreedyForMinimumCoins
+
 Greedy algorithm for minimum coins 
+
 By Naser Beheshti
+
 Email: info@naserbeheshti.com
+
 Telegram: @naserbeheshti
 
 Language: Python
